@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>USA</key>
+	<dict>
+		<key>Release</key>
+		<dict>
+			<key>apiKey</key>
+			<string>b52c554a-cf2e-4242-a64f-9a1ed4312077</string>
+			<key>dogURL</key>
+			<string>https://api.TheDogAPI.com/v1/breeds</string>
+		</dict>
+		<key>Staging</key>
+		<dict>
+			<key>dogURL</key>
+			<string>https://api.TheDogAPI.com/v1/breeds</string>
+			<key>apiKey</key>
+			<string>b52c554a-cf2e-4242-a64f-9a1ed4312077</string>
+		</dict>
+		<key>Debug</key>
+		<dict>
+			<key>dogURL</key>
+			<string>https://api.TheDogAPI.com/v1/breeds</string>
+			<key>apiKey</key>
+			<string>b52c554a-cf2e-4242-a64f-9a1ed4312077</string>
+		</dict>
+	</dict>
+	<key>UK</key>
+	<dict>
+		<key>Release</key>
+		<dict>
+			<key>dogURL</key>
+			<string>https://api.TheDogAPI.com/v1/breeds</string>
+			<key>apiKey</key>
+			<string>b52c554a-cf2e-4242-a64f-9a1ed4312077</string>
+		</dict>
+		<key>Staging</key>
+		<dict>
+			<key>dogURL</key>
+			<string>https://api.TheDogAPI.com/v1/breeds</string>
+			<key>apiKey</key>
+			<string>b52c554a-cf2e-4242-a64f-9a1ed4312077</string>
+		</dict>
+		<key>Debug</key>
+		<dict>
+			<key>dogURL</key>
+			<string>https://api.TheDogAPI.com/v1/breeds</string>
+			<key>apiKey</key>
+			<string>b52c554a-cf2e-4242-a64f-9a1ed4312077</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
