@@ -9,19 +9,19 @@
 			<key>apiKey</key>
 			<string>b52c554a-cf2e-4242-a64f-9a1ed4312077</string>
 			<key>dogURL</key>
-			<string>https://api.TheDogAPI.com/v1/breeds</string>
+			<string>https://api.TheDogAPI.com/v1</string>
 		</dict>
 		<key>Staging</key>
 		<dict>
 			<key>dogURL</key>
-			<string>https://api.TheDogAPI.com/v1/breeds</string>
+			<string>https://api.TheDogAPI.com/v1</string>
 			<key>apiKey</key>
 			<string>b52c554a-cf2e-4242-a64f-9a1ed4312077</string>
 		</dict>
 		<key>Debug</key>
 		<dict>
 			<key>dogURL</key>
-			<string>https://api.TheDogAPI.com/v1/breeds</string>
+			<string>https://api.TheDogAPI.com/v1</string>
 			<key>apiKey</key>
 			<string>b52c554a-cf2e-4242-a64f-9a1ed4312077</string>
 		</dict>
@@ -31,21 +31,21 @@
 		<key>Release</key>
 		<dict>
 			<key>dogURL</key>
-			<string>https://api.TheDogAPI.com/v1/breeds</string>
+			<string>https://api.TheDogAPI.com/v1</string>
 			<key>apiKey</key>
 			<string>b52c554a-cf2e-4242-a64f-9a1ed4312077</string>
 		</dict>
 		<key>Staging</key>
 		<dict>
 			<key>dogURL</key>
-			<string>https://api.TheDogAPI.com/v1/breeds</string>
+			<string>https://api.TheDogAPI.com/v1</string>
 			<key>apiKey</key>
 			<string>b52c554a-cf2e-4242-a64f-9a1ed4312077</string>
 		</dict>
 		<key>Debug</key>
 		<dict>
 			<key>dogURL</key>
-			<string>https://api.TheDogAPI.com/v1/breeds</string>
+			<string>https://api.TheDogAPI.com/v1</string>
 			<key>apiKey</key>
 			<string>b52c554a-cf2e-4242-a64f-9a1ed4312077</string>
 		</dict>
